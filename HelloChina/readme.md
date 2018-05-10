@@ -1,4 +1,3 @@
-# Contract-The folder is mainly about intelligent contract.
 ## 1、安装ganache-cli和truffle
 	npm install -g ganache-cli truffle
 
