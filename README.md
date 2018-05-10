@@ -1,1 +1,2 @@
-# Contract-The folder is mainly about intelligent contract.
+# Contract
+## The folder is mainly about intelligent contract.
